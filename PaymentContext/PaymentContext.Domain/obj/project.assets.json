@@ -208,8 +208,8 @@
     },
     "PaymentContext.Shared/1.0.0": {
       "type": "project",
-      "path": "../PaymentContext.shared/PaymentContext.Shared.csproj",
-      "msbuildProject": "../PaymentContext.shared/PaymentContext.Shared.csproj"
+      "path": "../PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "msbuildProject": "../PaymentContext.Shared/PaymentContext.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -226,11 +226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\Curso175_ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\Curso175_ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "packagesPath": "C:\\Users\\jbachesque\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\Curso175_ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\obj\\",
+      "outputPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -249,8 +249,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\Curso175_ModelandoDominiosRicos\\PaymentContext\\PaymentContext.shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\Curso175_ModelandoDominiosRicos\\PaymentContext\\PaymentContext.shared\\PaymentContext.Shared.csproj"
+            "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }
