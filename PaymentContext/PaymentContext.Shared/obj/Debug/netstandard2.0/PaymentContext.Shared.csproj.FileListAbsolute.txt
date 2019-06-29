@@ -16,3 +16,12 @@ C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentConte
 C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
 C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb

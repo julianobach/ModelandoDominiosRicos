@@ -39,7 +39,7 @@
   },
   "libraries": {
     "Flunt/1.0.3": {
-      "sha512": "7/wzY8uowlaM5Xydj428PdF1yp1bfuSEm5ONqnx4xiEbPv/zfGLNQoJQVNzU7cqmt3MmvJEGrCCEg7T1NHFdmA==",
+      "sha512": "arW+hvceeDip54UA8FBTrjN+QKpXAP4HQwpaxVyfwuDHwVyCMZW31FNjITtl8Xio9uW05U9ANRef5fplVTqyrw==",
       "type": "package",
       "path": "flunt/1.0.3",
       "files": [
@@ -51,7 +51,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -201,23 +201,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jbachesque\\.nuget\\packages\\": {},
+    "C:\\Users\\Juliano\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+      "projectUniqueName": "D:\\GitHub\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.shared\\PaymentContext.Shared.csproj",
       "projectName": "PaymentContext.Shared",
-      "projectPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-      "packagesPath": "C:\\Users\\jbachesque\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbachesque\\Documents\\Estudo\\BaltaIO\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\obj\\",
+      "projectPath": "D:\\GitHub\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.shared\\PaymentContext.Shared.csproj",
+      "packagesPath": "C:\\Users\\Juliano\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jbachesque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Juliano\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

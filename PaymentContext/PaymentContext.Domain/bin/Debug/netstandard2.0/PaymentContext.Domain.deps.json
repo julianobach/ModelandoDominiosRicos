@@ -50,14 +50,14 @@
     "Flunt/1.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7/wzY8uowlaM5Xydj428PdF1yp1bfuSEm5ONqnx4xiEbPv/zfGLNQoJQVNzU7cqmt3MmvJEGrCCEg7T1NHFdmA==",
+      "sha512": "sha512-arW+hvceeDip54UA8FBTrjN+QKpXAP4HQwpaxVyfwuDHwVyCMZW31FNjITtl8Xio9uW05U9ANRef5fplVTqyrw==",
       "path": "flunt/1.0.3",
       "hashPath": "flunt.1.0.3.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "sha512-bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
     },

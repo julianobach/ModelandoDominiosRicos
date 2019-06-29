@@ -22,3 +22,15 @@ C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentConte
 C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
 C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
 C:\Users\jbachesque\Documents\Estudo\BaltaIO\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+D:\GitHub\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
