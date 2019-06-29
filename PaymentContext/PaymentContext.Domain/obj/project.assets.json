@@ -249,8 +249,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\GitHub\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "D:\\GitHub\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.shared\\PaymentContext.Shared.csproj"
+            "D:\\GitHub\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "D:\\GitHub\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }
